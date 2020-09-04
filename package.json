@@ -23,7 +23,7 @@
   "bugs": "https://github.com/pa11y/webservice/issues",
   "license": "GPL-3.0",
   "dependencies": {
-    "@hapi/hapi": "~18.4.0",
+    "@hapi/hapi": "~19.1.1",
     "@hapi/joi": "~16.1.7",
     "async": "~3.1.0",
     "cron": "~1.7.1",
